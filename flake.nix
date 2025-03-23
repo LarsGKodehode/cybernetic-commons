@@ -30,7 +30,10 @@
       devShells = withPkgs (pkgs: {
         default = pkgs.mkShell {
           # Project Dependencies
-          packages = [ ];
+          packages = [
+            # Epsitomelogical Layer
+            pkgs.ipfs
+          ];
 
           # Development Environment Variables
           env = { };

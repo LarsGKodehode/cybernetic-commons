@@ -1,0 +1,9 @@
+# Submodules
+#
+# To avoid having Git commands executed elsewhere
+# try to include the submodules here we have to
+# ignore them.
+*
+# Provide negation for files that should be included
+!.gitignore
+!README.md

@@ -1,0 +1,4 @@
+name: cybernetic-commons
+
+include:
+  - ./core/commons/compose.ipfs-cluster.yaml

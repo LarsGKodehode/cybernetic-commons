@@ -1,0 +1,3 @@
+[submodule "core/commons/vendored-data/ipfs-webui"]
+	path = core/commons/vendored-data/ipfs-webui
+	url = https://github.com/ipfs/ipfs-webui.git
