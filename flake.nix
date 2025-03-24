@@ -33,6 +33,9 @@
           packages = [
             # Epsitomelogical Layer
             pkgs.ipfs
+
+            # Consensus Layer
+            pkgs.tendermint
           ];
 
           # Development Environment Variables
