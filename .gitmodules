@@ -1,5 +1,5 @@
-[submodule "core/commons/vendored-data/ipfs-webui"]
-	path = core/commons/vendored-data/ipfs-webui
+[submodule "core/commons/vendored/ipfs-webui"]
+	path = core/commons/vendored/ipfs-webui
 	url = https://github.com/ipfs/ipfs-webui.git
 [submodule "core/consensus/vendored/tendermint"]
 	path = core/consensus/vendored/tendermint
