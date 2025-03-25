@@ -7,3 +7,5 @@
 # Provide negation for files that should be included
 !.gitignore
 !README.md
+!.dockerignore
+!Dockerfile

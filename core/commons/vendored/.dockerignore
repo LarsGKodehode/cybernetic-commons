@@ -1,0 +1,11 @@
+# Containers
+Dockerfile
+
+# Nix
+flake.lock
+*.nix
+.envrc
+.direnv
+
+# Nodejs dependencies
+/node_modules
